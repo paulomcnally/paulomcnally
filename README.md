@@ -26,6 +26,7 @@ Hola, mi nombre es Paulo McNally y soy desarrollador de Software.
 ## PHP
 | Año  | Mes   | Nombre                                                               | Descripción | 
 | ---- | ----- | -------------------------------------------------------------------- | ----------- |
+| 2013 | Abril | [DatabaseMysqli](https://github.com/paulomcnally/DatabaseMysqli-php) | SDK para mysqli en PHP basado en ezSQL. |
 | 2013 | Abril | [Carteles](https://github.com/paulomcnally/Carteles) | Sitio web que permite generar carteles cuadrados con texto al centro al estilo de www.desmotivaciones.es |
 | 2013 | Abril | [photobucket-ftp](https://github.com/paulomcnally/photobucket-ftp-php) | SDK para subir fotos mediante FTP a Photobucket. |
 | 2012 | Septiembre | [PicBlog](https://github.com/paulomcnally/PicBlog) | twitpic.com te permitía publicar el URL de una imágen en Twitter, PicBlog te permitía publicar el URL de un álbum de imágenes en Twitter. |
