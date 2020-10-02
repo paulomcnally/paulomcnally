@@ -30,3 +30,7 @@ Hola, mi nombre es Paulo McNally y soy desarrollador de Software.
 | 2012 | Junio | [GetCheckIn](https://github.com/paulomcnally/GetCheckIn) | Sitio web que permite vincular tu cuenta de foursquare para desde una aplicación móvil enviar las cordenadas via SMS para hacer CheckIn en la plataforma. Hace 8 años el uso de datos móviles era exclusivo, los SMS eran más accesibles. |
 | 2012 | Junio | [JSONResponse-php](https://github.com/paulomcnally/JSONResponse-php) | Class PHP para generar respuestas en un formato JSON para API. |
 
+## Visual Basic
+| Año  | Mes   | Nombre                                                 | Descripción | 
+| ---- | ----- | --------------------------------------------------- | ----------- |
+| 2009 | Julio | [NewFolderCleaner](https://github.com/paulomcnally/NewFolderCleaner) | En 2009 usaba Windows como sistema operativo principal y cada vez que volvía del cyber café (Cyber Internet) mi memoria traía ejecutables que infectaban mi PC, estos eran ejecutables con íconos y nombres de las carpetas de la memoria. Me dí a la tarea de investigar y analizar todo lo que desconfiguraban y logré hacer esta herramienta que restablecía tu sistema operativo, los anti-virus de la época podían eliminar el virus, pero no restablecían lo que el virus desconfiguraba. |
