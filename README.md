@@ -20,6 +20,7 @@ Hola, mi nombre es Paulo McNally y soy desarrollador de Software.
 
 | Año  | Mes   | Nombre                                                 | Descripción | 
 | ---- | ----- | --------------------------------------------------- | ----------- |
+| 2013 | Junio | [p3li-nodejs](https://github.com/paulomcnally/mp3li-nodejs) | Aplicación Web que permite buscar y descargar archivos MP3 desde el sitio mp3.li |
 | 2013 | Mayo | [alt1040-api](https://github.com/paulomcnally/af-node-alt1040-api) | API generada mediante Web Scrapping del muy reconocido en esa época blog en español. |
 | 2013 | Enero | [nodejs-websocket-webserver](https://github.com/paulomcnally/nodejs-websocket-webserver) | Para un evento llamado Miércoles de Web, hice este API con WebSocket para que un colega coenctara su aplicación Android y así hablarles acerca de estas tecnologías. |
 | 2013 | Julio | [imdb-node](https://www.npmjs.com/package/imdb-node) | Web Scrapping del sitio https://www.imdb.com/. |
