@@ -10,6 +10,13 @@ Hola, mi nombre es Paulo McNally y soy desarrollador de Software.
 
 # Proyectos
 
+## Android
+| Año  | Mes   | Nombre                                                 | Descripción | 
+| ---- | ----- | --------------------------------------------------- | ----------- |
+| 2012 | Junio | [sms-mentions-android](https://github.com/paulomcnally/sms-mentions-android) | Aplicación para dispositivos Android que permite conectar tu cuenta de Twitter y Facebook para obtener la lista de amigos y seguidores y almacenarlos sin conexión para luego seleccionarlos y enviar el ID o nombre de usuario con el formato para menciones desde un SMS. |
+
+
+
 ## Node
 
 | Año  | Mes   | Nombre                                                 | Descripción | 
