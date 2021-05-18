@@ -6,7 +6,7 @@ Hola, mi nombre es Paulo McNally y soy desarrollador de Software.
 - [Facebook](https://www.facebook.com/paulomcnally)
 - [Twitter](https://twitter.com/paulomcnally)
 - [Instagram](https://www.instagram.com/paulomcnally/)
-- [YouTube](https://www.youtube.com/c/pauloantoniomcnallyzambrana)
+- [YouTube](https://www.youtube.com/paulomcnally)
 
 # Proyectos
 
