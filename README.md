@@ -47,7 +47,7 @@ Hola, mi nombre es Paulo McNally y soy desarrollador de Software.
 <h3 align="center">GITHUB STATS<hr/></h3>
 
 <p align="center">
-  <a href="https://github.com/manuelduarte077">
+  <a href="https://github.com/paulomcnally">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=paulomcnally&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paulomcnally&layout=compact&langs_count=8&theme=dracula&count_private=true"/>
   </a>  
