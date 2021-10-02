@@ -42,3 +42,13 @@ Hola, mi nombre es Paulo McNally y soy desarrollador de Software.
 | Año  | Mes   | Nombre                                                 | Descripción | 
 | ---- | ----- | --------------------------------------------------- | ----------- |
 | 2009 | Julio | [NewFolderCleaner](https://github.com/paulomcnally/NewFolderCleaner) | En 2009 usaba Windows como sistema operativo principal y cada vez que volvía del cyber café (Cyber Internet) mi memoria traía ejecutables que infectaban mi PC, estos eran ejecutables con íconos y nombres de las carpetas de la memoria. Me dí a la tarea de investigar y analizar todo lo que desconfiguraban y logré hacer esta herramienta que restablecía tu sistema operativo, los anti-virus de la época podían eliminar el virus, pero no restablecían lo que el virus desconfiguraba. |
+
+
+<h3 align="center">GITHUB STATS<hr/></h3>
+
+<p align="center">
+  <a href="https://github.com/manuelduarte077">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=paulomcnally&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paulomcnally&layout=compact&langs_count=8&theme=dracula&count_private=true"/>
+  </a>  
+</p>
